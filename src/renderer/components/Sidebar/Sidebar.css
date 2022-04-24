@@ -1,0 +1,9 @@
+.sidebar .ant-menu-submenu-title {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.sidebar .ant-menu-title-content {
+  @apply font-medium;
+}

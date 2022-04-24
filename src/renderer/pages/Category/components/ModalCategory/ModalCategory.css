@@ -1,0 +1,7 @@
+.staff-modal {
+  @apply !w-full max-w-2xl;
+}
+
+.staff-modal .ant-btn {
+  /* @apply bg-blue-500; */
+}
